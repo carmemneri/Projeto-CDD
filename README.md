@@ -3,6 +3,4 @@ Este repositório contém os notebooks utilizados no projeto de análise socioec
 
 ![Projeto Final CDD](https://github.com/user-attachments/assets/0b65ad04-492f-41c6-a008-0a738a0de7a2)
 
-[Projeto Final CDD (1).pdf](https://github.com/user-attachments/files/17329916/Projeto.Final.CDD.1.pdf)
-
-
+![Projeto Final CDD (1)](https://github.com/user-attachments/assets/0ee94249-59a4-4616-97c6-c1d3d8f26549)
